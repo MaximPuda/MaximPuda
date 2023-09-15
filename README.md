@@ -19,4 +19,4 @@
 
 Hello my friend! When I was 8 years old, my parents bought me my first game console. I discovered incredible new worlds and it changed my life forever. Since then, I have dreamed of creating my own worlds and sharing them with my friends. And now I am happy that I have such an opportunity.
 
-At the moment I'm developing hyper-casual games for mobile platforms and I'm happy to share them with you. I don't have much experience, but I work on it every day, improving my skills and learning new technologies.
+At the moment I'm developing hyper-casual games for mobile platforms and I'm happy to share them with you!
